@@ -7,3 +7,7 @@ body{
     background-color: blue;
 }
 
+main:first-child{
+    display: flex;
+    justify-content: center;
+}
